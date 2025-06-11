@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Mohammad Fahim
+# 👋 Hello, I'm Mohammed Faheem
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 
@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 ```javascript
-const mohammad = {
+const mohammed = {
     pronouns: "He/Him",
     location: "🌍 Earth",
     currentFocus: "Building amazing web experiences",
