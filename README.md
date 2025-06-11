@@ -72,6 +72,10 @@ const mohammed = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdfxhym&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdfxhym&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
 ## 🎯 Current Goals
 
 - 🌱 **Learning:** Advanced React patterns and microservices architecture
@@ -96,9 +100,6 @@ const mohammed = {
 
 ### 💭 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Graph
-![Snake animation](https://github.com/mohdfxhym/mohdfxhym/blob/output/github-contribution-grid-snake.svg)
 
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
